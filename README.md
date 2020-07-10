@@ -1,7 +1,6 @@
-### Hi there 👋
+# My Name is Casey Alvarez 👋
 
 ###### I'm a Software Engineer @ Stitch, a Talend Company
-
 <!--
 **CaseyAlvarez/CaseyAlvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
